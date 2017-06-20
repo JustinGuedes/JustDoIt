@@ -1,0 +1,14 @@
+PODS:
+  - SwiftSpec (0.0.1):
+    - SwiftSpec/All (= 0.0.1)
+  - SwiftSpec/All (0.0.1)
+
+DEPENDENCIES:
+  - SwiftSpec
+
+SPEC CHECKSUMS:
+  SwiftSpec: 5d520056f6585a85dd8e9d06680260c99e987b58
+
+PODFILE CHECKSUM: 5da51f073ccedee7e232eb595d8b60335d6aaacb
+
+COCOAPODS: 1.2.1

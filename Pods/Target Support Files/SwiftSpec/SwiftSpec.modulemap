@@ -1,0 +1,6 @@
+framework module SwiftSpec {
+  umbrella header "SwiftSpec-umbrella.h"
+
+  export *
+  module * { export * }
+}
